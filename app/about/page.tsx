@@ -16,16 +16,16 @@ export default function about() {
 
         <div className="box2 flex-row h-[45vh] w-2/4 ml-28">
             <h3 className="haeding mt-11 pt-11 text-xl text-cyan-500">LEARN ABOUT US  ______</h3>
-            <h1 className="heading1 mt-5 text-4xl text-black font-mono">Best School For Your Kids</h1>
+            <h1 className="heading1 mt-5 text-4xl text-black font-mono">Best School For Your Kids!</h1>
             <p className="detail my-8 text-xl text-slate-500">
             Choosing the best school for your kids, consider factors such as academic reputation, extracurricular activities, class size, curriculum, diversity, location, cost, parental involvement, and visit the schools to get a feel for their culture and community.
              </p>
              <br/>
-             <p className="detail pl-11 text-cyan-500">
+             <div className="detail pl-11 text-cyan-500">
                <h3 className="sub-detail text-2xl p-2 border">* Academic Reputation</h3>
                <h3 className="sub-detail text-2xl p-2 border">* Extracurricular Activities</h3>
                <h3 className="sub-detail text-2xl p-2 border">* Parental Involvement</h3>
-             </p>
+             </div>
         </div>
 
 
