@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 
 
-const Navbar = () => {
+const Header = () => {
   return (
     <>
   <div className="navbar bg-cyan-100 h-12 w-screen mt-0 ml-0 justify-start items-center mx-auto">
@@ -39,4 +39,4 @@ const Navbar = () => {
 }
 
 
-export default Navbar
+export default Header
