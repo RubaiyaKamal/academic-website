@@ -1,12 +1,9 @@
 "use client"
 import React from 'react'
 import Image from 'next/image';
-import { useRef } from 'react';
 
 
 export default function Home() {
-
-  let ref = useRef()
 
 return (
   <div> 

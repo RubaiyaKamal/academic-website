@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 
@@ -49,7 +50,7 @@ const GalleryCardGrid = () => {
             className='w-70 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl z-10 relative'>
 
            <a href="#">
-           <img src={productImages[index]} alt={`Product ${index + 1}`} 
+           <Image width={500} height={500} src={productImages[index]} alt={`Product ${index + 1}`} 
            className='h-80 w-72 object-cover rounded-t-xl'/>
            </a>
 
