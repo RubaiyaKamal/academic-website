@@ -16,7 +16,7 @@ return (
       <h1 className="sub-text-1 flex ml-24 mt-24 w-[90vh] text-7xl text-white font-mono font-extrabold">New Approach to Kids Education</h1>
       <br/>
       <p className="detail flex ml-24 w-[90vh] mt-2 justify-center items-center m-auto text-white text-xl">
-      This approach tailors education to each child's individual needs, interests, and learning style. Technology can play a significant role in this, providing adaptive learning platforms that adjust content and pacing based on a student's progress.
+      This approach tailors education to each child individual needs, interests, and learning style. Technology can play a significant role in this, providing adaptive learning platforms that adjust content and pacing based on a students progress.
         </p>    
 
   <div className="img-app flex flex-row justify-end items-end m-auto ml-56 mb-11 pb-14 w-[150vh] h-[15vh]">
