@@ -7,7 +7,7 @@ export default function Home() {
 
 return (
   <div> 
-  <div className="container flex relative h-[84vh] w-screen mt-4">
+  <div className="container flex relative h-[94vh] w-screen mt-4">
  {/*School name Main Page */}
      <div className="main flex flex-col relative bg-cyan-500 h-[90vh] w-screen">
       <div className="body flex flex-col relative w-screen h-[45vh]">
@@ -20,7 +20,7 @@ return (
         </p>    
 
   <div className="img-app flex flex-row justify-end items-end m-auto ml-56 mb-11 pb-14 w-[150vh] h-[15vh]">
-    <Image className='flex object-cover rounded-full border-4 border-black' width={500} height={700} src='https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='image'/>
+    <Image className='flex object-cover rounded-full border-4 border-black' width={400} height={500} src='https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='image'/>
   </div>
 
   </div>
