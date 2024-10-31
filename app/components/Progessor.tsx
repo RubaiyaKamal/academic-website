@@ -21,7 +21,7 @@ return (
         </div>
 
 
-  <div className="flex flex-row justify-end items-end m-auto ml-56 pb-16 -mt-8 w-[150vh] h-[15vh]">
+  <div className="flex flex-row justify-end items-end m-auto ml-56 pb-16 mt-10 w-[150vh] h-[15vh]">
     <Image className='flex object-cover rounded-full border-4 border-black' width={400} height={500} src='https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='image'/>
   </div>
 
